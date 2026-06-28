@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Some of my Data Science Works
-=======
 # 📊 Crime Patterns and Crime Risk Prediction in Boston
 
 ## Project Overview
@@ -81,4 +78,3 @@ pip install pandas numpy matplotlib seaborn geopy geopandas plotly scikit-learn
 Feel free to connect: 
 - [LinkedIn](https://www.linkedin.com/in/denise-ribeiro-potenza/)
 - denisepotenza@gmail.com
->>>>>>> 922d5ae (Update)
